@@ -1,3 +1,3 @@
 <template>
-  Not Found
+  My Games
 </template>
